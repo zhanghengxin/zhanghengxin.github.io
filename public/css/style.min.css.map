@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "C:/Users/zhanghengxin/WebstormProjects/zhanghengxin.github.io",
+	"sourceRoot": "/Users/zhanghengxin/GolandProjects/zhanghengxin.github.io",
 	"sources": [
 		"themes/DoIt/assets/css/style.scss",
 		"themes/DoIt/assets/css/_variables.scss",
